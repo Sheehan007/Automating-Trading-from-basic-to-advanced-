@@ -10,6 +10,10 @@ EDIT: Logged in the next day and was able to buy 6 shares of Apple (AAPL) and 3 
 
 [WILL KEEP UPDATING.. ]
 
+INDEX for DOCS:
+1. Basics of Quantitative Trading: 
+This doc includes all the basics of Quant trading that you would need to understand the history, and ideology behind the advent of Quant Trading. In addition, you will also be able to understand the complex programs and strategies that quants deploy to trade in millisecond time ranges (also called HFT quants), etc.    
+
 Resources used:
 1. Python for Finance by Yves Hilspich
 2. 
