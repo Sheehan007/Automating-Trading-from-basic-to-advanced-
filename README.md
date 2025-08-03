@@ -7,16 +7,15 @@ Description: I created a paper trading account on Alpaca. Downloaded the API on 
 EDIT: Logged in the next day and was able to buy 6 shares of Apple (AAPL) and 3 shares of Meta (META)
 
 2. Trading-2: Optimizing the already made trading startegy. In this part, I have used a very important library for stock analysis in Python named "Technical Analysis". It can be donwloaded using 'pip install ta' command.
-   I applied RSI (Relative Strength Index) indicator, it is the most commonly used momentum indicator used in technical analysis. It is a momentum oscillator that is used to identify the oversold and the overbought stocks It was developed by John Welles Wilder Jr. It measures the speed and magnitude of recent price changes. 
+I applied RSI (Relative Strength Index) indicator, it is the most commonly used momentum indicator used in technical analysis. It is a momentum oscillator that is used to identify the oversold and the overbought stocks It was developed by John Welles Wilder Jr. It measures the speed and magnitude of recent price changes. 
 
 [It is suggested that you read more about this on trusted websites like Investopedia, etc.]
 
 > **Formula: RSI=100−(100/1+RS)**  
-
 [where RS (Relative Strength) = average gain over a specified period/average loss over the same period]
 
 
-4. 
+3.  
 
 [WILL KEEP UPDATING.. ]
 
