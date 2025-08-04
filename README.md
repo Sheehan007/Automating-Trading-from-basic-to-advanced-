@@ -16,15 +16,16 @@ I applied RSI (Relative Strength Index) indicator, it is the most commonly used 
 
 
 3. Trading-3: Visualization. It is very important to interpret the changes that we are committing! Hence, I decided to plot five graphs that will help us visualize market data and trading performance. Each graph focuses on a different aspect of market data or trading strategy. The five graphs are:
-   i. Candlestick Chart with RSI: Displays stock price movements (OHLC) and RSI signals for a symbol, highlighting buy/sell signals for the momentum strategy.
    
-  ii. Portfolio Equity Curve: Shows the portfolio’s value over time, useful for evaluating trading performance and showcasing optimization skills.
+      i. Candlestick Chart with RSI: Displays stock price movements (OHLC) and RSI signals for a symbol, highlighting buy/sell signals for the momentum strategy.
+   
+     ii. Portfolio Equity Curve: Shows the portfolio’s value over time, useful for evaluating trading performance and showcasing optimization skills.
   
- iii. Drawdown Plot: Visualizes maximum drawdowns to assess risk, critical for quant finance and risk management.
+    iii. Drawdown Plot: Visualizes maximum drawdowns to assess risk, critical for quant finance and risk management.
  
-  iv. Pairs Trading Spread and Z-Score: Plots the price spread and z-score for AAPL/MSFT pairs trading, emphasizing cointegration and statistical arbitrage.
+     iv. Pairs Trading Spread and Z-Score: Plots the price spread and z-score for AAPL/MSFT pairs trading, emphasizing cointegration and statistical arbitrage.
   
-   v. Volume and Volatility Plot: Displays trading volume and rolling volatility to identify market activity, supporting data-driven approach.    
+      v. Volume and Volatility Plot: Displays trading volume and rolling volatility to identify market activity, supporting data-driven approach.    
 
 [WILL KEEP UPDATING.. ]
 
