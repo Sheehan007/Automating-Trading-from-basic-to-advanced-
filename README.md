@@ -28,6 +28,8 @@ I applied RSI (Relative Strength Index) indicator, it is the most commonly used 
       v. Volume and Volatility Plot: Displays trading volume and rolling volatility to identify market activity, supporting data-driven approach.
 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 4. Project-1- Forex Close Prediction: Created a basic neural network to predict Forex Close Price. 
 Dataset Link: http://www.histdata.com/
 
