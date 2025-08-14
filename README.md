@@ -7,12 +7,12 @@ Description: I created a paper trading account on Alpaca. Downloaded the API on 
 EDIT: Logged in the next day and was able to buy 6 shares of Apple (AAPL) and 3 shares of Meta (META)
 
 2. Trading-2: Optimizing the already made trading startegy. In this part, I have used a very important library for stock analysis in Python named "Technical Analysis". It can be donwloaded using 'pip install ta' command.
-I applied RSI (Relative Strength Index) indicator, it is the most commonly used momentum indicator used in technical analysis. It is a momentum oscillator that is used to identify the oversold and the overbought stocks It was developed by John Welles Wilder Jr. It measures the speed and magnitude of recent price changes. 
-
-[It is suggested that you read more about this on trusted websites like Investopedia, etc.]
+I applied RSI (Relative Strength Index) indicator, it is the most commonly used momentum indicator used in technical analysis. It is a momentum oscillator that is used to identify the oversold and the overbought stocks It was developed by John Welles Wilder Jr. It measures the speed and magnitude of recent price changes.
 
 > **Formula: RSI=100−(100/1+RS)**  
 [where RS (Relative Strength) = average gain over a specified period/average loss over the same period]
+
+[It is suggested that you read more about this on trusted websites like Investopedia, etc.]
 
 
 3. Trading-3: Visualization. It is very important to interpret the changes that we are committing! Hence, I decided to plot five graphs that will help us visualize market data and trading performance. Each graph focuses on a different aspect of market data or trading strategy. The five graphs are:
@@ -25,7 +25,16 @@ I applied RSI (Relative Strength Index) indicator, it is the most commonly used 
  
      iv. Pairs Trading Spread and Z-Score: Plots the price spread and z-score for AAPL/MSFT pairs trading, emphasizing cointegration and statistical arbitrage.
   
-      v. Volume and Volatility Plot: Displays trading volume and rolling volatility to identify market activity, supporting data-driven approach.    
+      v. Volume and Volatility Plot: Displays trading volume and rolling volatility to identify market activity, supporting data-driven approach.
+
+
+4. Project-1- Forex Close Prediction: Created a basic neural network to predict Forex Close Price. 
+Dataset Link: http://www.histdata.com/
+
+
+5. 
+
+
 
 [WILL KEEP UPDATING.. ]
 
