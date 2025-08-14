@@ -31,7 +31,6 @@ I applied RSI (Relative Strength Index) indicator, it is the most commonly used 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Project-1- Forex Close Prediction: Created a basic neural network to predict Forex Close Price. 
-
 Project-1.2- Forex Close Price Prediction using LSTM (Long-Short-Term Memory) Model and technical indicators (RSI, SMA, EMA)
 Dataset Link: http://www.histdata.com/
 
