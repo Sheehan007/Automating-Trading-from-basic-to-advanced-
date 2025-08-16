@@ -1,0 +1,14 @@
+1. Link: https://sheehanmathur.substack.com/p/optimizing-portfolio-construction
+TOPIC: Optimizing Portfolio Construction with Machine Learning
+Description: Explore how machine learning techniques, such as k-means clustering and reinforcement learning, can improve portfolio optimization compared to traditional mean-variance models. 
+Discuss practical implementation using Python libraries like scikit-learn and backtesting with Backtrader, focusing on risk-adjusted returns.
+Case Study: In 2023, a hedge fund used a clustering-based machine learning model to group S&P 500 stocks by volatility and correlation patterns, optimizing a long-only portfolio. 
+By applying k-means clustering to historical price data, the fund reduced portfolio volatility by 15% while maintaining returns, as detailed in a QuantPedia report. 
+The model dynamically rebalanced monthly, outperforming the S&P 500 benchmark by 3% annually during 2020–2022. 
+Blog Approach: Explain the clustering algorithm, include a Python snippet for k-means using scikit-learn, and discuss how you replicated a similar approach on a smaller dataset 
+(e.g., 10 stocks) to achieve a Sharpe ratio improvement.
+
+2. 
+
+
+as always-[WILL KEEP UPDATING...]
