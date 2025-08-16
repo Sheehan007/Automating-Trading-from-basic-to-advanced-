@@ -28,6 +28,10 @@ I applied RSI (Relative Strength Index) indicator, it is the most commonly used 
       v. Volume and Volatility Plot: Displays trading volume and rolling volatility to identify market activity, supporting data-driven approach.
 
 
+[WILL KEEP UPDATING.. ]
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Project-1- Forex Close Prediction: Created a basic neural network to predict Forex Close Price.
@@ -36,8 +40,14 @@ Project-1.2- Forex Close Price Prediction using LSTM (Long-Short-Term Memory) Mo
 
 Dataset Link: http://www.histdata.com/
 
+Backtesting-1: tried backtesting some of the forex data of GBP-USD which was downloaded from the yfinance (Yahoo Finance) library. It seems to have not gone the way I wanted it to but I am working on it and will fix the glitches once I understand my mistakes. It may be due to some attributes deleted from the libraries or some other minor errors. 
 
 [WILL KEEP UPDATING.. ]
+
+
+
+
+
 
 INDEX for DOCS:
 1. Basics of Quantitative Trading: 
@@ -45,4 +55,4 @@ This doc includes all the basics of Quant trading that you would need to underst
 
 Resources used:
 1. Python for Finance by Yves Hilspich
-2. 
+2. Advances in Financial Machine Learning by Marcos Lopez de Prado
